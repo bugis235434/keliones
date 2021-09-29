@@ -19,5 +19,3 @@ Route::get('/', [PagesController::class, 'welcome']);
 
 Route::get('/about', [PagesController::class, 'about']);
 Route::get('/rules', [PagesController::class, 'rules']);
-
-git remote add origin https://bugis235434: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@github.com/bugis235434/keliones.git
